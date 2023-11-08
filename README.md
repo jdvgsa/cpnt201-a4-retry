@@ -23,5 +23,4 @@ This is my 4th attempt at completing CPNT201-A4.
 - (Used git checkout -b 201-a4 and git pull / git merge commands to accomplish this task)
 - Tried to deploy site to Netlify [https://cpnt201-a4retry.netlify.app]
 
-I was planning to not submit anything as I could not figure out how to complete this assignment no matter how many times I reread the instructions but I figured any grade is better than a 0, I was also not comfortable at the idea of submitting nothing as I have never missed an assignment for this class.
-I apologize for handing this in late. I have multiple Repo's and I have multiple local attempts saved in my PC.
+My final attempts at trying go complete the assignment, I could not figure this out.
